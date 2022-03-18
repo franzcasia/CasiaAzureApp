@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'CasiaAzureApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E67D6B50B2D64338A3494337276B77C6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6619112D69449BF8C968D2BE3AEACC9 }}
